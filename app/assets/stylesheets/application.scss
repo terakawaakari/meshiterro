@@ -16,3 +16,14 @@
  @import "bootstrap";
  @import 'font-awesome-sprockets';
  @import 'font-awesome';
+
+ #pagetop {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+ }
+
+ .pagetop_arrow {
+  width: 50px;
+  height: 50px;
+ }
